@@ -1,0 +1,20 @@
+.formDiv{
+    background-color: bisque;
+}
+#button{
+    color: white !important;
+}
+#description{
+    color: white;
+}
+#title{
+    color: white;
+}
+#title:hover{
+    transform: scale(1.06);
+    cursor: pointer;
+   
+  }
+body{
+    background-image: linear-gradient(to right bottom, #9fa930, #77970c, #7c9126, #b0b81f, #bbb81a);
+  }
